@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665815564201",
+    "project_id": "airportproject-93b9e",
+    "storage_bucket": "airportproject-93b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665815564201:android:502ee8084c9a7c034e4eb8",
+        "android_client_info": {
+          "package_name": "com.example.auribises_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50yH5Ok-pXk0Jij9vRSdrIiLpQXUCWbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
